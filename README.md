@@ -3,7 +3,7 @@
 **PhD researcher in Applied Mathematics | Game Developer | UI-focused problem solver**
 
 I’m currently a PhD researcher at University College Dublin, working on complex nonlinear systems and large-scale computational models.  
-Alongside my research, I develop games in **Godot**, with a strong interest in **gameplay systems, UI/UX, and game feel**, and I’m currently expanding my skillset into **Unreal Engine**.
+Alongside my research, I develop games in **Godot**, with a strong interest in **gameplay systems, UI/UX, and game feel**, and I’m currently expanding my skillset into **Unreal Engine** and **C++**.
 
 I enjoy turning complex ideas into **clear, playable experiences**, bridging rigorous analytical thinking with creative development.
 
